@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 70px;
+    background-color: coral;
+    margin: 0 ;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+
+}
+
+.logo img{
+    height: 50px;
+    margin-right: 30px;
+
+}
+.parrafo {
+    position: absolute;
+    left: 35px;
+    font-style: arial;
+    top: 250px;
+    font-size: 13px;
+}
+
+
+
+.index {
+    position: absolute;
+    left: 35px;
+}
+
+
+
